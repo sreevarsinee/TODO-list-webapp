@@ -7,5 +7,9 @@ FEATURES:
 3. when you are done the activity you can delete it by pressing checkbox.
 
 Note that it is the open website and anyone can access this webapp from anywhere.
+
+Wanna try? 
+
+https://stormy-inlet-86427.herokuapp.com/
  
  
